@@ -1,10 +1,9 @@
 class Account:
-
-    def __init__(self, name: str, category: str, balance: float, account_id: int):
-        self.account_id = account_id
+    def __init__(self, name: str, balance: float, client_id: int, acc_id: int):
+        self.client_id = client_id
+        self.acc_id = acc_id
         self.balance = balance
-        self.category = category
         self.name = name
 
     def __str__(self):
-        return f"Name: {self.name}, Type:{self.category}, Balance:{self.balance}, ID: {self.account_id}"
+        return f"Account Name: {self.name}, Account Balance: {self.balance}, Account ID: {self.acc_id}"

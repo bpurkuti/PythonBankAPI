@@ -1,31 +1,35 @@
 from abc import ABC, abstractmethod
-from typing import List
+from typing import List, Dict
 
 from entities.account import Account
+from entities.client import Client
 
 
 class AccountDao(ABC):
-    # CRUD
     @abstractmethod
-    def create_account(self, acc: Account) -> Account:
+    def create_account(self, account: Account) -> Account:
         pass
 
     @abstractmethod
-    def get_account(self, acc_id: int) -> Account:
+    def get_account(self, client_id: int, acc_id: int) -> Account:
         pass
 
     @abstractmethod
-    def get_all_account(self) -> List[Account]:
+    def get_all_accounts(self, client_id: int) -> List[Account]:
         pass
 
     @abstractmethod
-    def update_account(self, acc: Account) -> Account:
+    def get_all_accounts_in_range_of(self, client_id: int, acc_id: int, minimum: float, maximum: float) -> List[Account]:
         pass
 
     @abstractmethod
-    def transaction(self, acc: Account, balance: float) -> Account:
+    def update_account(self, client_id: int, acc_id: int) -> Account:
         pass
 
     @abstractmethod
-    def delete_account(self, acc_id: int) -> bool:
+    def transfer(self, client_id: int, initial: int, target: int, amount: float) -> Client:
+        pass
+
+    @abstractmethod
+    def delete_account(self, client_id: int, acc_id: int) -> bool:
         pass
