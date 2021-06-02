@@ -6,7 +6,8 @@
    The Banking App API is a Server-side application that facilitates the management of Client's Bank Accounts. A client create new accounts of various categories. Clients can deposit or withdraw funds from the account as well as close out accounts.
    
    
-### Used Python/Flask to create the API. PostgreSQL as the RDBMS and Postman for testing our API through http requests. Also, Pytest for unittesting purposes
+## Tech Stack
+Used Python/Flask to create the API. PostgreSQL as the RDBMS and Postman for testing our API through http requests. Also, Pytest for unittesting purposes
 	
 ## I looked at these requirements before starting the project.
 1. All endpoints listed below must have a Postman test verifying functionality
@@ -16,8 +17,7 @@
 6. Logging is implemented throughout the application
 7. All DAO and Service methods must have a test proving that they work
 
-### We test these endpoints through POSTMAN and make sure they return proper response
-## RESTful Endpoints:
+## RESTful Endpoints: W test these endpoints through POSTMAN and make sure they return proper response
 
 POST /clients => Creates a new client
 	return a 201 status code
