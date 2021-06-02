@@ -1,0 +1,322 @@
+2021-06-01 15:26:01,242 INFO  * Restarting with stat
+2021-06-01 15:26:01,680 WARNING  * Debugger is active!
+2021-06-01 15:26:01,686 INFO  * Debugger PIN: 139-527-298
+2021-06-01 15:26:01,723 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 15:26:52,684 INFO 127.0.0.1 - - [01/Jun/2021 15:26:52] "[33mDELETE /clients/17 HTTP/1.1[0m" 404 -
+2021-06-01 15:26:58,627 INFO 127.0.0.1 - - [01/Jun/2021 15:26:58] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 15:27:03,707 INFO 127.0.0.1 - - [01/Jun/2021 15:27:03] "[33mDELETE /clients/19 HTTP/1.1[0m" 404 -
+2021-06-01 15:27:14,892 INFO 127.0.0.1 - - [01/Jun/2021 15:27:14] "DELETE /clients/18 HTTP/1.1" 200 -
+2021-06-01 15:27:47,453 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\routes\\client_routes.py', reloading
+2021-06-01 15:27:47,483 INFO  * Restarting with stat
+2021-06-01 15:27:47,953 WARNING  * Debugger is active!
+2021-06-01 15:27:47,958 INFO  * Debugger PIN: 139-527-298
+2021-06-01 15:27:47,995 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 15:27:54,662 INFO 127.0.0.1 - - [01/Jun/2021 15:27:54] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 15:28:01,169 INFO 127.0.0.1 - - [01/Jun/2021 15:28:01] "[35m[1mDELETE /clients/19 HTTP/1.1[0m" 205 -
+2021-06-01 22:52:58,078 INFO  * Restarting with stat
+2021-06-01 22:52:58,515 WARNING  * Debugger is active!
+2021-06-01 22:52:58,521 INFO  * Debugger PIN: 139-527-298
+2021-06-01 22:52:58,559 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 22:53:18,119 INFO 127.0.0.1 - - [01/Jun/2021 22:53:18] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 22:53:25,306 INFO 127.0.0.1 - - [01/Jun/2021 22:53:25] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 22:53:34,441 INFO 127.0.0.1 - - [01/Jun/2021 22:53:34] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 22:53:44,455 INFO 127.0.0.1 - - [01/Jun/2021 22:53:44] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-01 22:53:47,505 INFO 127.0.0.1 - - [01/Jun/2021 22:53:47] "GET /clients/2 HTTP/1.1" 200 -
+2021-06-01 22:53:50,685 INFO 127.0.0.1 - - [01/Jun/2021 22:53:50] "GET /clients/3 HTTP/1.1" 200 -
+2021-06-01 22:53:52,617 INFO 127.0.0.1 - - [01/Jun/2021 22:53:52] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-01 22:53:57,035 INFO 127.0.0.1 - - [01/Jun/2021 22:53:57] "GET /clients HTTP/1.1" 200 -
+2021-06-01 22:54:40,768 INFO 127.0.0.1 - - [01/Jun/2021 22:54:40] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-01 22:55:07,066 INFO 127.0.0.1 - - [01/Jun/2021 22:55:07] "[35m[1mDELETE /clients/3 HTTP/1.1[0m" 205 -
+2021-06-01 22:55:16,277 INFO 127.0.0.1 - - [01/Jun/2021 22:55:16] "[33mGET /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 22:55:28,269 INFO 127.0.0.1 - - [01/Jun/2021 22:55:28] "GET /clients HTTP/1.1" 200 -
+2021-06-01 22:55:57,658 INFO 127.0.0.1 - - [01/Jun/2021 22:55:57] "[33mPUT /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 22:56:07,974 INFO 127.0.0.1 - - [01/Jun/2021 22:56:07] "[33mDELETE /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 22:57:35,275 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\services\\client\\client_service_impl.py', reloading
+2021-06-01 22:57:35,306 INFO  * Restarting with stat
+2021-06-01 22:57:35,774 WARNING  * Debugger is active!
+2021-06-01 22:57:35,779 INFO  * Debugger PIN: 139-527-298
+2021-06-01 22:57:35,816 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 22:57:51,392 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\routes\\client_routes.py', reloading
+2021-06-01 22:57:51,421 INFO  * Restarting with stat
+2021-06-01 22:57:51,857 WARNING  * Debugger is active!
+2021-06-01 22:57:51,863 INFO  * Debugger PIN: 139-527-298
+2021-06-01 22:57:51,901 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 22:58:09,532 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\routes\\client_routes.py', reloading
+2021-06-01 22:58:09,558 INFO  * Restarting with stat
+2021-06-01 22:58:10,003 WARNING  * Debugger is active!
+2021-06-01 22:58:10,009 INFO  * Debugger PIN: 139-527-298
+2021-06-01 22:58:10,048 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 22:58:17,795 INFO 127.0.0.1 - - [01/Jun/2021 22:58:17] "[33mDELETE /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 22:59:55,703 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\tests\\test_account_dao.py', reloading
+2021-06-01 22:59:55,732 INFO  * Restarting with stat
+2021-06-01 22:59:56,175 WARNING  * Debugger is active!
+2021-06-01 22:59:56,181 INFO  * Debugger PIN: 139-527-298
+2021-06-01 22:59:56,218 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:00:40,782 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\tests\\test_account_dao.py', reloading
+2021-06-01 23:00:40,807 INFO  * Restarting with stat
+2021-06-01 23:00:41,307 WARNING  * Debugger is active!
+2021-06-01 23:00:41,313 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:00:41,351 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:00:46,561 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\tests\\test_account_dao.py', reloading
+2021-06-01 23:00:46,588 INFO  * Restarting with stat
+2021-06-01 23:00:47,049 WARNING  * Debugger is active!
+2021-06-01 23:00:47,054 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:00:47,092 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:01:15,072 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\tests\\test_account_dao.py', reloading
+2021-06-01 23:01:15,100 INFO  * Restarting with stat
+2021-06-01 23:01:15,568 WARNING  * Debugger is active!
+2021-06-01 23:01:15,573 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:01:15,612 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:02:21,386 INFO 127.0.0.1 - - [01/Jun/2021 23:02:21] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 23:02:26,773 INFO 127.0.0.1 - - [01/Jun/2021 23:02:26] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 23:02:34,720 INFO 127.0.0.1 - - [01/Jun/2021 23:02:34] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-01 23:02:37,728 INFO 127.0.0.1 - - [01/Jun/2021 23:02:37] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-01 23:02:41,059 INFO 127.0.0.1 - - [01/Jun/2021 23:02:41] "GET /clients HTTP/1.1" 200 -
+2021-06-01 23:02:45,230 INFO 127.0.0.1 - - [01/Jun/2021 23:02:45] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-01 23:02:51,863 INFO 127.0.0.1 - - [01/Jun/2021 23:02:51] "[35m[1mDELETE /clients/3 HTTP/1.1[0m" 205 -
+2021-06-01 23:02:56,705 INFO 127.0.0.1 - - [01/Jun/2021 23:02:56] "[33mGET /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 23:03:02,660 INFO 127.0.0.1 - - [01/Jun/2021 23:03:02] "[33mPUT /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 23:03:05,387 INFO 127.0.0.1 - - [01/Jun/2021 23:03:05] "[33mDELETE /clients/3 HTTP/1.1[0m" 404 -
+2021-06-01 23:03:16,897 INFO 127.0.0.1 - - [01/Jun/2021 23:03:16] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-01 23:03:22,366 INFO 127.0.0.1 - - [01/Jun/2021 23:03:22] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-01 23:03:27,634 INFO 127.0.0.1 - - [01/Jun/2021 23:03:27] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-01 23:03:58,830 INFO 127.0.0.1 - - [01/Jun/2021 23:03:58] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-01 23:04:06,419 INFO 127.0.0.1 - - [01/Jun/2021 23:04:06] "GET /clients/1/accounts/4 HTTP/1.1" 200 -
+2021-06-01 23:04:26,190 INFO 127.0.0.1 - - [01/Jun/2021 23:04:26] "[35m[1mGET /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-01 23:04:54,399 INFO 127.0.0.1 - - [01/Jun/2021 23:04:54] "[33mGET /clients/3/accounts?amountLessThan=250&amountGreaterThan=200 HTTP/1.1[0m" 404 -
+2021-06-01 23:05:00,366 INFO 127.0.0.1 - - [01/Jun/2021 23:05:00] "[35m[1mGET /clients/1/accounts?amountLessThan=250&amountGreaterThan=200 HTTP/1.1[0m" 201 -
+2021-06-01 23:05:55,031 INFO 127.0.0.1 - - [01/Jun/2021 23:05:55] "PUT /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:06:05,485 INFO 127.0.0.1 - - [01/Jun/2021 23:06:05] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:06:24,960 INFO 127.0.0.1 - - [01/Jun/2021 23:06:24] "[35m[1mDELETE /clients/1/accounts/4 HTTP/1.1[0m" 205 -
+2021-06-01 23:06:41,145 INFO 127.0.0.1 - - [01/Jun/2021 23:06:41] "[35m[1mDELETE /clients/3/accounts/1 HTTP/1.1[0m" 205 -
+2021-06-01 23:06:47,008 INFO 127.0.0.1 - - [01/Jun/2021 23:06:47] "[35m[1mDELETE /clients/5/accounts/1 HTTP/1.1[0m" 205 -
+2021-06-01 23:07:13,190 INFO 127.0.0.1 - - [01/Jun/2021 23:07:13] "GET /clients HTTP/1.1" 200 -
+2021-06-01 23:07:19,274 INFO 127.0.0.1 - - [01/Jun/2021 23:07:19] "POST /clients/3/accounts HTTP/1.1" 200 -
+2021-06-01 23:07:36,111 INFO 127.0.0.1 - - [01/Jun/2021 23:07:36] "[33mGET /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:07:45,560 INFO 127.0.0.1 - - [01/Jun/2021 23:07:45] "[33mGET /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:07:52,767 INFO 127.0.0.1 - - [01/Jun/2021 23:07:52] "[33mGET /clients/3/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 404 -
+2021-06-01 23:07:57,708 INFO 127.0.0.1 - - [01/Jun/2021 23:07:57] "[33mPUT /clients/3/accounts/2 HTTP/1.1[0m" 404 -
+2021-06-01 23:08:03,061 INFO 127.0.0.1 - - [01/Jun/2021 23:08:03] "[35m[1mDELETE /clients/3/accounts/1 HTTP/1.1[0m" 205 -
+2021-06-01 23:10:14,386 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\daos\\account\\account_dao_postgres.py', reloading
+2021-06-01 23:10:14,413 INFO  * Restarting with stat
+2021-06-01 23:10:14,864 WARNING  * Debugger is active!
+2021-06-01 23:10:14,869 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:10:14,910 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:10:52,666 INFO 127.0.0.1 - - [01/Jun/2021 23:10:52] "[35m[1mDELETE /clients/3/accounts/1 HTTP/1.1[0m" 205 -
+2021-06-01 23:13:22,381 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\services\\account\\account_service_impl.py', reloading
+2021-06-01 23:13:22,411 INFO  * Restarting with stat
+2021-06-01 23:13:22,880 WARNING  * Debugger is active!
+2021-06-01 23:13:22,886 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:13:22,924 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:13:30,195 INFO  * Detected change in 'C:\\Users\\Bishwo Purkuti\\PycharmProjects\\BankAPI\\services\\account\\account_service_impl.py', reloading
+2021-06-01 23:13:30,222 INFO  * Restarting with stat
+2021-06-01 23:13:30,692 WARNING  * Debugger is active!
+2021-06-01 23:13:30,698 INFO  * Debugger PIN: 139-527-298
+2021-06-01 23:13:30,735 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-01 23:13:33,955 INFO 127.0.0.1 - - [01/Jun/2021 23:13:33] "[33mDELETE /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:18:29,676 INFO 127.0.0.1 - - [01/Jun/2021 23:18:29] "[33mGET /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:18:37,185 INFO 127.0.0.1 - - [01/Jun/2021 23:18:37] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:18:47,826 INFO 127.0.0.1 - - [01/Jun/2021 23:18:47] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:18:58,376 INFO 127.0.0.1 - - [01/Jun/2021 23:18:58] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:19:28,312 INFO 127.0.0.1 - - [01/Jun/2021 23:19:28] "PATCH /clients/1/accounts/2/transfer/1 HTTP/1.1" 200 -
+2021-06-01 23:19:35,208 INFO 127.0.0.1 - - [01/Jun/2021 23:19:35] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-01 23:20:08,139 INFO 127.0.0.1 - - [01/Jun/2021 23:20:08] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:20:16,781 INFO 127.0.0.1 - - [01/Jun/2021 23:20:16] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-01 23:20:43,580 INFO 127.0.0.1 - - [01/Jun/2021 23:20:43] "[31m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 422 -
+2021-06-01 23:20:51,285 INFO 127.0.0.1 - - [01/Jun/2021 23:20:51] "[33mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 404 -
+2021-06-01 23:21:06,247 INFO 127.0.0.1 - - [01/Jun/2021 23:21:06] "[33mPATCH /clients/2/accounts/1/transfer/2 HTTP/1.1[0m" 404 -
+2021-06-01 23:21:12,138 INFO 127.0.0.1 - - [01/Jun/2021 23:21:12] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -
+2021-06-02 11:15:44,679 INFO  * Restarting with stat
+2021-06-02 11:15:45,164 WARNING  * Debugger is active!
+2021-06-02 11:15:45,174 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:15:45,219 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:16:23,893 INFO 127.0.0.1 - - [02/Jun/2021 11:16:23] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:16:27,854 INFO 127.0.0.1 - - [02/Jun/2021 11:16:27] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:16:40,909 INFO 127.0.0.1 - - [02/Jun/2021 11:16:40] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:17:06,278 INFO 127.0.0.1 - - [02/Jun/2021 11:17:06] "[33mDELETE /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:17:12,265 INFO 127.0.0.1 - - [02/Jun/2021 11:17:12] "[33mPUT /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:17:18,232 INFO 127.0.0.1 - - [02/Jun/2021 11:17:18] "[33mGET /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:18:16,386 INFO 127.0.0.1 - - [02/Jun/2021 11:18:16] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:18:23,036 INFO 127.0.0.1 - - [02/Jun/2021 11:18:23] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:18:27,904 INFO 127.0.0.1 - - [02/Jun/2021 11:18:27] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:18:34,441 INFO 127.0.0.1 - - [02/Jun/2021 11:18:34] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:18:42,266 INFO 127.0.0.1 - - [02/Jun/2021 11:18:42] "[35m[1mGET /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:18:45,137 INFO 127.0.0.1 - - [02/Jun/2021 11:18:45] "[35m[1mGET /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:18:57,139 INFO 127.0.0.1 - - [02/Jun/2021 11:18:57] "[33mGET /clients/1/accounts?amountLessThan=250&amountGreaterThan=200 HTTP/1.1[0m" 404 -
+2021-06-02 11:19:20,835 INFO 127.0.0.1 - - [02/Jun/2021 11:19:20] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:19:21,490 INFO 127.0.0.1 - - [02/Jun/2021 11:19:21] "GET /clients/4 HTTP/1.1" 200 -
+2021-06-02 11:19:22,094 INFO 127.0.0.1 - - [02/Jun/2021 11:19:22] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:19:22,690 INFO 127.0.0.1 - - [02/Jun/2021 11:19:22] "GET /clients HTTP/1.1" 200 -
+2021-06-02 11:19:23,328 INFO 127.0.0.1 - - [02/Jun/2021 11:19:23] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:19:23,964 INFO 127.0.0.1 - - [02/Jun/2021 11:19:23] "PUT /clients/2 HTTP/1.1" 200 -
+2021-06-02 11:19:24,586 INFO 127.0.0.1 - - [02/Jun/2021 11:19:24] "[33mDELETE /clients/19 HTTP/1.1[0m" 404 -
+2021-06-02 11:19:25,209 INFO 127.0.0.1 - - [02/Jun/2021 11:19:25] "[35m[1mDELETE /clients/2/accounts/1 HTTP/1.1[0m" 205 -
+2021-06-02 11:19:25,855 INFO 127.0.0.1 - - [02/Jun/2021 11:19:25] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:19:26,496 INFO 127.0.0.1 - - [02/Jun/2021 11:19:26] "[35m[1mPOST /clients/3/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:19:27,140 INFO 127.0.0.1 - - [02/Jun/2021 11:19:27] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:19:27,739 INFO 127.0.0.1 - - [02/Jun/2021 11:19:27] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:19:28,366 INFO 127.0.0.1 - - [02/Jun/2021 11:19:28] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:19:29,003 INFO 127.0.0.1 - - [02/Jun/2021 11:19:29] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:19:29,619 INFO 127.0.0.1 - - [02/Jun/2021 11:19:29] "[33mGET /clients/3/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 404 -
+2021-06-02 11:19:30,245 INFO 127.0.0.1 - - [02/Jun/2021 11:19:30] "[35m[1mGET /clients/1/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 201 -
+2021-06-02 11:19:30,885 INFO 127.0.0.1 - - [02/Jun/2021 11:19:30] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:19:31,553 INFO 127.0.0.1 - - [02/Jun/2021 11:19:31] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:19:32,163 INFO 127.0.0.1 - - [02/Jun/2021 11:19:32] "[33mDELETE /clients/3/accounts/7 HTTP/1.1[0m" 404 -
+2021-06-02 11:19:32,809 INFO 127.0.0.1 - - [02/Jun/2021 11:19:32] "[35m[1mDELETE /clients/2 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:33,478 INFO 127.0.0.1 - - [02/Jun/2021 11:19:33] "[35m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:34,081 INFO 127.0.0.1 - - [02/Jun/2021 11:19:34] "[35m[1mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:34,693 INFO 127.0.0.1 - - [02/Jun/2021 11:19:34] "[35m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:35,246 INFO 127.0.0.1 - - [02/Jun/2021 11:19:35] "[35m[1mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:35,874 INFO 127.0.0.1 - - [02/Jun/2021 11:19:35] "[35m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:36,498 INFO 127.0.0.1 - - [02/Jun/2021 11:19:36] "[35m[1mPATCH /clients/1/accounts/2/transfer/3 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:37,122 INFO 127.0.0.1 - - [02/Jun/2021 11:19:37] "[35m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:37,750 INFO 127.0.0.1 - - [02/Jun/2021 11:19:37] "[35m[1mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 500 -
+2021-06-02 11:19:53,361 INFO 127.0.0.1 - - [02/Jun/2021 11:19:53] "[35m[1mGET /clients/45/accounts/1 HTTP/1.1[0m" 500 -
+2021-06-02 11:20:04,982 INFO 127.0.0.1 - - [02/Jun/2021 11:20:04] "[35m[1mGET /clients/45/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 500 -
+2021-06-02 11:21:15,051 INFO  * Restarting with stat
+2021-06-02 11:21:15,536 WARNING  * Debugger is active!
+2021-06-02 11:21:15,544 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:21:15,584 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:21:53,680 INFO 127.0.0.1 - - [02/Jun/2021 11:21:53] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -
+2021-06-02 11:29:45,744 INFO  * Restarting with stat
+2021-06-02 11:29:46,190 WARNING  * Debugger is active!
+2021-06-02 11:29:46,197 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:29:46,237 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:33:36,628 INFO 127.0.0.1 - - [02/Jun/2021 11:33:36] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:33:37,389 INFO 127.0.0.1 - - [02/Jun/2021 11:33:37] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:33:38,111 INFO 127.0.0.1 - - [02/Jun/2021 11:33:38] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:33:38,832 INFO 127.0.0.1 - - [02/Jun/2021 11:33:38] "[33mGET /clients/4 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:39,516 INFO 127.0.0.1 - - [02/Jun/2021 11:33:39] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:33:40,222 INFO 127.0.0.1 - - [02/Jun/2021 11:33:40] "GET /clients HTTP/1.1" 200 -
+2021-06-02 11:33:40,962 INFO 127.0.0.1 - - [02/Jun/2021 11:33:40] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:33:41,695 INFO 127.0.0.1 - - [02/Jun/2021 11:33:41] "PUT /clients/2 HTTP/1.1" 200 -
+2021-06-02 11:33:42,407 INFO 127.0.0.1 - - [02/Jun/2021 11:33:42] "[33mDELETE /clients/19 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:43,107 INFO 127.0.0.1 - - [02/Jun/2021 11:33:43] "[35m[1mDELETE /clients/2 HTTP/1.1[0m" 205 -
+2021-06-02 11:33:43,823 INFO 127.0.0.1 - - [02/Jun/2021 11:33:43] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:33:44,552 INFO 127.0.0.1 - - [02/Jun/2021 11:33:44] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:33:45,295 INFO 127.0.0.1 - - [02/Jun/2021 11:33:45] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:33:46,001 INFO 127.0.0.1 - - [02/Jun/2021 11:33:46] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:33:46,722 INFO 127.0.0.1 - - [02/Jun/2021 11:33:46] "[35m[1mPOST /clients/3/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:33:47,405 INFO 127.0.0.1 - - [02/Jun/2021 11:33:47] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:33:48,069 INFO 127.0.0.1 - - [02/Jun/2021 11:33:48] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:33:48,737 INFO 127.0.0.1 - - [02/Jun/2021 11:33:48] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:33:49,430 INFO 127.0.0.1 - - [02/Jun/2021 11:33:49] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:33:50,144 INFO 127.0.0.1 - - [02/Jun/2021 11:33:50] "[33mGET /clients/3/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:50,840 INFO 127.0.0.1 - - [02/Jun/2021 11:33:50] "[35m[1mGET /clients/1/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 201 -
+2021-06-02 11:33:51,544 INFO 127.0.0.1 - - [02/Jun/2021 11:33:51] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:33:52,269 INFO 127.0.0.1 - - [02/Jun/2021 11:33:52] "[33mDELETE /clients/3/accounts/7 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:53,011 INFO 127.0.0.1 - - [02/Jun/2021 11:33:53] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:33:53,708 INFO 127.0.0.1 - - [02/Jun/2021 11:33:53] "[33mDELETE /clients/2/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:54,456 INFO 127.0.0.1 - - [02/Jun/2021 11:33:54] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:33:55,120 INFO 127.0.0.1 - - [02/Jun/2021 11:33:55] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:55,849 INFO 127.0.0.1 - - [02/Jun/2021 11:33:55] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:33:56,541 INFO 127.0.0.1 - - [02/Jun/2021 11:33:56] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:57,283 INFO 127.0.0.1 - - [02/Jun/2021 11:33:57] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:33:58,119 INFO 127.0.0.1 - - [02/Jun/2021 11:33:58] "PATCH /clients/1/accounts/2/transfer/3 HTTP/1.1" 200 -
+2021-06-02 11:33:58,813 INFO 127.0.0.1 - - [02/Jun/2021 11:33:58] "[33mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 404 -
+2021-06-02 11:33:59,505 INFO 127.0.0.1 - - [02/Jun/2021 11:33:59] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -
+2021-06-02 11:34:46,148 INFO  * Restarting with stat
+2021-06-02 11:34:46,631 WARNING  * Debugger is active!
+2021-06-02 11:34:46,636 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:34:46,675 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:35:29,906 INFO 127.0.0.1 - - [02/Jun/2021 11:35:29] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:35:32,300 INFO 127.0.0.1 - - [02/Jun/2021 11:35:32] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:35:34,565 INFO 127.0.0.1 - - [02/Jun/2021 11:35:34] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:35:37,233 INFO 127.0.0.1 - - [02/Jun/2021 11:35:37] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:35:45,562 INFO 127.0.0.1 - - [02/Jun/2021 11:35:45] "[33mGET /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:35:52,321 INFO 127.0.0.1 - - [02/Jun/2021 11:35:52] "GET /clients HTTP/1.1" 200 -
+2021-06-02 11:35:58,278 INFO 127.0.0.1 - - [02/Jun/2021 11:35:58] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:36:00,966 INFO 127.0.0.1 - - [02/Jun/2021 11:36:00] "[33mPUT /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:36:12,228 INFO 127.0.0.1 - - [02/Jun/2021 11:36:12] "[35m[1mDELETE /clients/3 HTTP/1.1[0m" 205 -
+2021-06-02 11:36:17,101 INFO 127.0.0.1 - - [02/Jun/2021 11:36:17] "[33mDELETE /clients/56 HTTP/1.1[0m" 404 -
+2021-06-02 11:36:23,746 INFO 127.0.0.1 - - [02/Jun/2021 11:36:23] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:36:34,205 INFO 127.0.0.1 - - [02/Jun/2021 11:36:34] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:36:36,395 INFO 127.0.0.1 - - [02/Jun/2021 11:36:36] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:36:39,372 INFO 127.0.0.1 - - [02/Jun/2021 11:36:39] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:36:41,805 INFO 127.0.0.1 - - [02/Jun/2021 11:36:41] "POST /clients/45/accounts HTTP/1.1" 200 -
+2021-06-02 11:36:52,462 INFO 127.0.0.1 - - [02/Jun/2021 11:36:52] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:36:58,956 INFO 127.0.0.1 - - [02/Jun/2021 11:36:58] "[33mGET /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:37:03,386 INFO 127.0.0.1 - - [02/Jun/2021 11:37:03] "[35m[1mGET /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:37:10,472 INFO 127.0.0.1 - - [02/Jun/2021 11:37:10] "[33mGET /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:37:17,477 INFO 127.0.0.1 - - [02/Jun/2021 11:37:17] "[35m[1mGET /clients/2/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 201 -
+2021-06-02 11:37:31,117 INFO 127.0.0.1 - - [02/Jun/2021 11:37:31] "[35m[1mGET /clients/2/accounts?amountLessThan=200&amountGreaterThan=1 HTTP/1.1[0m" 201 -
+2021-06-02 11:38:02,262 INFO 127.0.0.1 - - [02/Jun/2021 11:38:02] "[35m[1mGET /clients/2/accounts?amountLessThan=200&amountGreaterThan=101 HTTP/1.1[0m" 201 -
+2021-06-02 11:38:11,673 INFO 127.0.0.1 - - [02/Jun/2021 11:38:11] "[33mGET /clients/45/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 404 -
+2021-06-02 11:38:17,256 INFO 127.0.0.1 - - [02/Jun/2021 11:38:17] "PUT /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:38:23,293 INFO 127.0.0.1 - - [02/Jun/2021 11:38:23] "[35m[1mDELETE /clients/2/accounts/4 HTTP/1.1[0m" 205 -
+2021-06-02 11:38:26,824 INFO 127.0.0.1 - - [02/Jun/2021 11:38:26] "[33mPUT /clients/45/accounts/2 HTTP/1.1[0m" 404 -
+2021-06-02 11:38:31,709 INFO 127.0.0.1 - - [02/Jun/2021 11:38:31] "[33mDELETE /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:38:40,287 INFO 127.0.0.1 - - [02/Jun/2021 11:38:40] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:38:45,610 INFO 127.0.0.1 - - [02/Jun/2021 11:38:45] "[33mPATCH /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:38:51,330 INFO 127.0.0.1 - - [02/Jun/2021 11:38:51] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:38:57,536 INFO 127.0.0.1 - - [02/Jun/2021 11:38:57] "[33mPATCH /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:39:07,572 INFO 127.0.0.1 - - [02/Jun/2021 11:39:07] "[31m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 422 -
+2021-06-02 11:39:24,641 INFO 127.0.0.1 - - [02/Jun/2021 11:39:24] "PATCH /clients/1/accounts/1/transfer/2 HTTP/1.1" 200 -
+2021-06-02 11:39:28,504 INFO 127.0.0.1 - - [02/Jun/2021 11:39:28] "[33mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 404 -
+2021-06-02 11:39:32,645 INFO 127.0.0.1 - - [02/Jun/2021 11:39:32] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -
+2021-06-02 11:40:58,161 INFO  * Restarting with stat
+2021-06-02 11:40:58,669 WARNING  * Debugger is active!
+2021-06-02 11:40:58,675 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:40:58,714 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:41:15,055 INFO 127.0.0.1 - - [02/Jun/2021 11:41:15] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:41:15,713 INFO 127.0.0.1 - - [02/Jun/2021 11:41:15] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:41:16,374 INFO 127.0.0.1 - - [02/Jun/2021 11:41:16] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:41:17,010 INFO 127.0.0.1 - - [02/Jun/2021 11:41:17] "[33mGET /clients/4 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:17,605 INFO 127.0.0.1 - - [02/Jun/2021 11:41:17] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:41:18,215 INFO 127.0.0.1 - - [02/Jun/2021 11:41:18] "GET /clients HTTP/1.1" 200 -
+2021-06-02 11:41:18,843 INFO 127.0.0.1 - - [02/Jun/2021 11:41:18] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:41:19,492 INFO 127.0.0.1 - - [02/Jun/2021 11:41:19] "PUT /clients/2 HTTP/1.1" 200 -
+2021-06-02 11:41:20,125 INFO 127.0.0.1 - - [02/Jun/2021 11:41:20] "[33mDELETE /clients/19 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:20,761 INFO 127.0.0.1 - - [02/Jun/2021 11:41:20] "[35m[1mDELETE /clients/2 HTTP/1.1[0m" 205 -
+2021-06-02 11:41:21,428 INFO 127.0.0.1 - - [02/Jun/2021 11:41:21] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:41:22,086 INFO 127.0.0.1 - - [02/Jun/2021 11:41:22] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:41:22,735 INFO 127.0.0.1 - - [02/Jun/2021 11:41:22] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:41:23,370 INFO 127.0.0.1 - - [02/Jun/2021 11:41:23] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:41:24,011 INFO 127.0.0.1 - - [02/Jun/2021 11:41:24] "[35m[1mPOST /clients/3/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:41:24,642 INFO 127.0.0.1 - - [02/Jun/2021 11:41:24] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:41:25,256 INFO 127.0.0.1 - - [02/Jun/2021 11:41:25] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:41:25,853 INFO 127.0.0.1 - - [02/Jun/2021 11:41:25] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:41:26,473 INFO 127.0.0.1 - - [02/Jun/2021 11:41:26] "[33mGET /clients/4/accounts HTTP/1.1[0m" 404 -
+2021-06-02 11:41:27,127 INFO 127.0.0.1 - - [02/Jun/2021 11:41:27] "[33mGET /clients/3/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:27,756 INFO 127.0.0.1 - - [02/Jun/2021 11:41:27] "[35m[1mGET /clients/1/accounts?amountLessThan=200&amountGreaterThan=100 HTTP/1.1[0m" 201 -
+2021-06-02 11:41:28,381 INFO 127.0.0.1 - - [02/Jun/2021 11:41:28] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:41:29,043 INFO 127.0.0.1 - - [02/Jun/2021 11:41:29] "PUT /clients/1/accounts/2 HTTP/1.1" 200 -
+2021-06-02 11:41:29,689 INFO 127.0.0.1 - - [02/Jun/2021 11:41:29] "[33mDELETE /clients/3/accounts/7 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:30,326 INFO 127.0.0.1 - - [02/Jun/2021 11:41:30] "[33mDELETE /clients/2/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:30,967 INFO 127.0.0.1 - - [02/Jun/2021 11:41:30] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:41:31,598 INFO 127.0.0.1 - - [02/Jun/2021 11:41:31] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:32,255 INFO 127.0.0.1 - - [02/Jun/2021 11:41:32] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:41:32,869 INFO 127.0.0.1 - - [02/Jun/2021 11:41:32] "[33mPATCH /clients/3/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:33,540 INFO 127.0.0.1 - - [02/Jun/2021 11:41:33] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:41:34,332 INFO 127.0.0.1 - - [02/Jun/2021 11:41:34] "PATCH /clients/1/accounts/2/transfer/3 HTTP/1.1" 200 -
+2021-06-02 11:41:34,947 INFO 127.0.0.1 - - [02/Jun/2021 11:41:34] "[33mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 404 -
+2021-06-02 11:41:35,543 INFO 127.0.0.1 - - [02/Jun/2021 11:41:35] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -
+2021-06-02 11:46:35,498 INFO  * Restarting with stat
+2021-06-02 11:46:35,993 WARNING  * Debugger is active!
+2021-06-02 11:46:35,998 INFO  * Debugger PIN: 139-527-298
+2021-06-02 11:46:36,040 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-06-02 11:46:51,625 INFO 127.0.0.1 - - [02/Jun/2021 11:46:51] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:46:57,403 INFO 127.0.0.1 - - [02/Jun/2021 11:46:57] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:47:00,662 INFO 127.0.0.1 - - [02/Jun/2021 11:47:00] "[35m[1mPOST /clients HTTP/1.1[0m" 201 -
+2021-06-02 11:47:07,048 INFO 127.0.0.1 - - [02/Jun/2021 11:47:07] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:47:12,662 INFO 127.0.0.1 - - [02/Jun/2021 11:47:12] "GET /clients HTTP/1.1" 200 -
+2021-06-02 11:47:19,312 INFO 127.0.0.1 - - [02/Jun/2021 11:47:19] "PUT /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:47:25,427 INFO 127.0.0.1 - - [02/Jun/2021 11:47:25] "GET /clients/1 HTTP/1.1" 200 -
+2021-06-02 11:47:33,052 INFO 127.0.0.1 - - [02/Jun/2021 11:47:33] "[35m[1mDELETE /clients/3 HTTP/1.1[0m" 205 -
+2021-06-02 11:47:41,052 INFO 127.0.0.1 - - [02/Jun/2021 11:47:41] "[33mGET /clients/3 HTTP/1.1[0m" 404 -
+2021-06-02 11:47:50,065 INFO 127.0.0.1 - - [02/Jun/2021 11:47:50] "[35m[1mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:47:56,201 INFO 127.0.0.1 - - [02/Jun/2021 11:47:56] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:47:58,572 INFO 127.0.0.1 - - [02/Jun/2021 11:47:58] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:48:00,974 INFO 127.0.0.1 - - [02/Jun/2021 11:48:00] "[35m[1mPOST /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:48:08,452 INFO 127.0.0.1 - - [02/Jun/2021 11:48:08] "GET /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:48:16,292 INFO 127.0.0.1 - - [02/Jun/2021 11:48:16] "[35m[1mGET /clients/2/accounts HTTP/1.1[0m" 201 -
+2021-06-02 11:48:30,343 INFO 127.0.0.1 - - [02/Jun/2021 11:48:30] "[35m[1mGET /clients/2/accounts?amountLessThan=200&amountGreaterThan=101 HTTP/1.1[0m" 201 -
+2021-06-02 11:48:41,341 INFO 127.0.0.1 - - [02/Jun/2021 11:48:41] "PUT /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:48:49,108 INFO 127.0.0.1 - - [02/Jun/2021 11:48:49] "[35m[1mDELETE /clients/2/accounts/4 HTTP/1.1[0m" 205 -
+2021-06-02 11:49:10,349 INFO 127.0.0.1 - - [02/Jun/2021 11:49:10] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:49:20,375 INFO 127.0.0.1 - - [02/Jun/2021 11:49:20] "PATCH /clients/1/accounts/1 HTTP/1.1" 200 -
+2021-06-02 11:49:31,823 INFO 127.0.0.1 - - [02/Jun/2021 11:49:31] "PATCH /clients/1/accounts/1/transfer/2 HTTP/1.1" 200 -
+2021-06-02 11:49:47,131 INFO 127.0.0.1 - - [02/Jun/2021 11:49:47] "[33mPATCH /clients/45/accounts/1 HTTP/1.1[0m" 404 -
+2021-06-02 11:49:53,057 INFO 127.0.0.1 - - [02/Jun/2021 11:49:53] "[31m[1mPATCH /clients/1/accounts/1 HTTP/1.1[0m" 422 -
+2021-06-02 11:49:58,379 INFO 127.0.0.1 - - [02/Jun/2021 11:49:58] "[33mPATCH /clients/2/accounts/89/transfer/9 HTTP/1.1[0m" 404 -
+2021-06-02 11:50:01,534 INFO 127.0.0.1 - - [02/Jun/2021 11:50:01] "[31m[1mPATCH /clients/1/accounts/1/transfer/2 HTTP/1.1[0m" 422 -

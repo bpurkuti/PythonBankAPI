@@ -4,7 +4,7 @@ from typing import List, Dict
 from entities.client import Client
 
 
-class ClientDao(ABC):
+class ClientService(ABC):
     # CRUD
     @abstractmethod
     def create_client(self, client: Client) -> Client:
@@ -19,7 +19,7 @@ class ClientDao(ABC):
         pass
 
     @abstractmethod
-    def update_client(self, client: Client) -> Client:
+    def update_client(self, client_id: int, client: Client) -> Client:
         pass
 
     @abstractmethod

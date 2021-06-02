@@ -1,7 +1,8 @@
-from typing import List, Dict
+from typing import List
 
-from daos.client_dao import ClientDao
+from daos.client.client_dao import ClientDao
 from entities.client import Client
+from exceptions.resource_not_found_error import ResourceNotFoundError
 
 
 class ClientDaoLocal(ClientDao):
@@ -17,14 +18,18 @@ class ClientDaoLocal(ClientDao):
         return client
 
     def get_client(self, client_id: int) -> Client:
-        return ClientDaoLocal.client_list[client_id]
+        client = ClientDaoLocal.client_list[client_id]
+        return client
 
     def get_all_clients(self) -> List[Client]:
         return list(ClientDaoLocal.client_list.values())
 
-    def update_client(self, client: Client) -> Client:
-        ClientDaoLocal.client_list[client.client_id] = client
-        return client
+    def update_client(self, client_id: int, client: Client) -> Client:
+        if client_id in ClientDaoLocal.client_list:
+            ClientDaoLocal.client_list[client_id] = client
+            return client
+        else:
+            raise ResourceNotFoundError()
 
     def delete_client(self, client_id: int) -> bool:
         try:
