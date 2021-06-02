@@ -3,13 +3,9 @@
 
 ## Description
 
-   The Banking App API is a Server-side application that facilitates the management of Client's Bank Accounts. A client create new accounts of various categories. Clients can deposit or withdraw funds from the account as well as close out accounts.
+   The Banking App API is a Server-side application that facilitates the management of Client's Bank Accounts. A client create new accounts of various categories. Clients can deposit or withdraw funds from the account as well as close out accounts. Used Python/Flask to create the API. PostgreSQL as the RDBMS and Postman for testing our API through http requests. 
 	
-## Purpose
-
-   We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team.
-
-## Requirements
+## I looked at these requirements before starting the project.
 1. All endpoints listed below must have a Postman test verifying functionality
 2. Data is stored in a database.
 3. Data Access is performed through the use of Data Access Objects.
@@ -19,7 +15,7 @@
 
 
 ## RESTful Endpoints:
-
+### We test these endpoints through POSTMAN and make sure they return proper response
 
 POST /clients => Creates a new client
 	return a 201 status code
