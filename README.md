@@ -7,7 +7,10 @@
    
    
 ## Tech Stack
-Used Python/Flask to create the API. PostgreSQL as the RDBMS and Postman for testing our API through http requests. Also, Pytest for unittesting purposes
+- Used Python/Flask to create the API.
+- PostgreSQL as the RDBMS
+- Postman for testing our API through http requests
+- Pytest for unittesting purposes
 	
 ## I looked at these requirements before starting the project.
 1. All endpoints listed below must have a Postman test verifying functionality
