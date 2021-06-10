@@ -12,10 +12,10 @@
 - Postman for testing our API through http requests
 - Pytest for unittesting purposes
 	
-## I looked at these requirements before starting the project.
-1. All endpoints listed below must have a Postman test verifying functionality
+## Project Features:
+1. All DAO and Service methods must have a test proving that they work
 2. Data is stored in a database.
 3. Data Access is performed through the use of Data Access Objects.
 5. All input is sent from a client (Postman) and handled by the Server
 6. Logging is implemented throughout the application
-7. All DAO and Service methods must have a test proving that they work
+7. All endpoints have their functionality verified through Postman
